@@ -17,5 +17,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
- <img  src= "file:///C:/Users/User/OneDrive%20-%20Dundalk%20Institute%20of%20Technology/Desktop/github-contribution-grid-snake.svg"   github-contribution-grid-snake.svg />
-
