@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erling Munguia</h1>
 <h3 align="center">A passionate frontend developer and programmer</h3>
 
-- 🔭 I’m currently Studying **Computing In Software Development**
+- 🔭 I’m Graduated in **Computing In Software Development**
 
 - 📫 How to reach me **munguia.erling4@gmail.com**
 
