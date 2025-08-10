@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erling Munguia</h1>
-<h3 align="center">A passionate frontend developer and programmer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m Graduated in **Computing In Software Development**
 
